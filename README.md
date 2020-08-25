@@ -1,2 +1,2 @@
 # desginpatterns
-个人学习记录
+个人学习设计模式记录

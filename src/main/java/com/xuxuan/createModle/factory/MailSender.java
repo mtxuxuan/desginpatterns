@@ -1,4 +1,4 @@
-package com.xuxuan.factory;
+package com.xuxuan.createModle.factory;
 
 public class MailSender implements sender {
     @Override

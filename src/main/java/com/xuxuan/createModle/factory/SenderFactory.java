@@ -1,5 +1,8 @@
-package com.xuxuan.factory;
+package com.xuxuan.createModle.factory;
 
+/*
+创建型 工厂模式
+ */
 public class SenderFactory {
     public sender produce(String type) {
         if ("mail".equals(type)) {

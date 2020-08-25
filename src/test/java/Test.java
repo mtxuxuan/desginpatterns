@@ -1,5 +1,5 @@
-import com.xuxuan.factory.SenderFactory;
-import com.xuxuan.factory.sender;
+import com.xuxuan.createModle.factory.SenderFactory;
+import com.xuxuan.createModle.factory.sender;
 import org.springframework.beans.factory.annotation.Autowired;
 
 public class Test {
